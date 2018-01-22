@@ -58,4 +58,29 @@
 @endif
 </div><br><br>
 
+<div class="container" style="margin-bottom:100px;">
+  <h2 class="text-center">Awesome Learning Resources</h2><br><br><br>
+  <div class="row">
+    <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="text-center" style="color:gray;padding:50px;"><a href="https://www.w3schools.com/js/default.asp" target="_blank">Getting Started with Javascript</a></h4></div>
+      </div>
+    </div>
+    <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="text-center" style="color:gray;padding:50px;"><a href="#">React vs Vue.Js</a></h4></div>
+      </div>
+    </div>
+    <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="text-center" style="color:gray;padding:50px;"><a href="#">Building for the next million users.</a></h4></div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
 @endsection
